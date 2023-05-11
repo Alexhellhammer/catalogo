@@ -1,0 +1,12 @@
+
+<html>
+    
+<h1></h1> titulos
+<br> salto de linea
+<input> caja para ingresar datos
+<button> boton para ejecutar
+    
+    git init => iniciar un nuevo repositorio en un directorio
+    git add => agregar archivos nuevo para el seguimiento enn git y agregar archivos existentes
+    git commit => permite poner en firme  o volver e forma inicial el nuevo o modificacion dentro del repositorio 
+    git push => subir cambios a la Nube 
